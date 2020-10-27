@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1 style="text-align: center">EEIT訂票網</h1>
+	<h1 style="text-align: center">EEIT訂票網test</h1>
 	<hr>
 	<table border="1" style="margin: 0px auto;">
 	
